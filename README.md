@@ -1,7 +1,7 @@
-## Crawling financial data from FRED ##
+## Crawling financial data from FRED
 
 
-### Introduction ###
+### Introduction
 In this repo, I wiil introduce to obtain financial data, especially interest rates, by using Python.
 
 Please refer follow link.
